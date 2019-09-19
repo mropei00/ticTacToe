@@ -1,0 +1,19 @@
+1-COMPILAR :  javac -verbose -d ./classes ./src/*.java
+
+2-GENERAR LA DOCUMENTACIÓN:  javac -verbose -d ./classes ./src/*.java
+
+3-EJECUTAR LA CLASE MainTicTacToe: java -classpath ./classes MainTicTacToe
+
+
+
+5-COMPILAR DESDE EL DIRECTORIO DE TRABAJO: javac -verbose -d ./classes ./es.unileon.prg1.ticTacToe/src/*.java
+
+6- GENERAR LA DOCUMENTACIÓN DESDE EL DIRECTORIO DE TRABAJO: javac -verbose -d ./classes ./es.unileon.prg1.ticTacToe/src/*.java
+
+7-EJECUTAR DESDE EL DIRECTORIO DE TRABAJO: java -classpath ./classes MainTicTacToe
+
+ 
+
+ 
+
+		
